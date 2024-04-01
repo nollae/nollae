@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20"Nollae"%20World&animation=twinkling&fontColor=363636&color=E3A6AE&height=220)
 
-
+<!--
 ## 📫 Contact 📫
 <a href="https://nollae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://nollae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.notion.so/zeroangry/449dbc1b886c47f695eae0d32dd026ae" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-#8250df
+-->
 
 ## Tech Stack
 <!-- Vuejs JavaScript JQuery html5 css BootStrap NodeJS Java MariaDB Oracle Jenkins Jira Git VSCode -->
