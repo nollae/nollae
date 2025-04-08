@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20"Nollae"%20World&animation=twinkling&fontColor=363636&color=E3A6AE&height=220)
 
-## 안녕하세요, 적응력이 뛰어난 **Web Developer Nollae**입니다.
+## 안녕하세요, 목표를 달성하는 **Fronted Developer Nollae**입니다.
 
 1️⃣ 완성도를 높이기 위해 프로젝트에 주도적으로 참여하고자 합니다.
 <br>
