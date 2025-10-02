@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello%20"Nollae"%20World&animation=twinkling&fontColor=ffffff&color=FFB6B9&height=200)
-
+<br/>
+<br/>
 ## 안녕하세요, 목표를 달성하는 **Fronted Developer**입니다.
-
-✨ 완성도를 높이기 위해 프로젝트에 주도적으로 참여하고자 합니다.
-<br>
-🚀 사용자 관점에서 개발을 하고자 합니다.
-<br>
-💬 커뮤니케이션을 중요시 생각합니다.
-
+✨ <strong>완성도를 높이기 위해 프로젝트에 주도적으로 참여하고자 합니다.</strong>
+<br/><br/>
+🚀 <strong>사용자 관점에서 개발을 하고자 합니다.</strong>
+<br/><br/>
+💬 <strong>커뮤니케이션을 중요시 생각합니다.</strong>
+<br/><br/>
 
 ## 📫 Contact
 <a href="https://nollae.github.io/" target="_blank">
@@ -16,6 +16,7 @@
 <a href="mailto:nollae@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br/><br/>
 
 ## 🛠 Tech Stack
 
@@ -27,6 +28,7 @@
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<br/>
 
 ### Back-End
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
@@ -34,6 +36,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+<br/>
 
 ### Tools & ETC
 <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
@@ -41,7 +44,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/SVN-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
-
+<br/><br/>
 
 ## 📊 GitHub Stats
 
