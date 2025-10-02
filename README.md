@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello%20"Nollae"%20World&animation=twinkling&fontColor=ffffff&color=FFB6B9&height=200)
 <br/>
 <br/>
-## 안녕하세요, 목표를 달성하는 **Fronted Developer**입니다.
+## 안녕하세요, 목표를 달성하는 **Front-End Developer**입니다.
 ✨ <strong>완성도를 높이기 위해 프로젝트에 주도적으로 참여하고자 합니다.</strong>
 <br/><br/>
 🚀 <strong>사용자 관점에서 개발을 하고자 합니다.</strong>
